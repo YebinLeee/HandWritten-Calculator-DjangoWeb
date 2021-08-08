@@ -1,14 +1,12 @@
 from django.shortcuts import render
-
 from PIL import Image
 from itertools import groupby
 import tensorflow
 import numpy as np
 
-
+            
 def home(request):
     return render(request, 'home.html')
-
 
 def pred(image_name):
 
@@ -98,4 +96,3 @@ def calculate(image_name):
             print('계산할 수 없거나 인식이 안됩니다. 다시 시도해주세요.')
             print('인식 요소 :',elements)
             break
-            
