@@ -16,10 +16,10 @@ Machine Learning Based HandWritten-Calculator
 4. Tensorflow 설치 확인
 - `python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"`
 
+<br>
 
-
-출처: https://mylifemystudy.tistory.com/27 [ENCAPSULATION]
 ## References
 
 - [Tensorflow Mnist Classification](https://github.com/sugyan/tensorflow-mnist)
 - [Models](https://github.com/DAT-Class/handwritten_multi-digit_calculator)
+- [Tensorflow Installation](https://mylifemystudy.tistory.com/27)
