@@ -96,4 +96,3 @@ def calculate(image_name):
             print('계산할 수 없거나 인식이 안됩니다. 다시 시도해주세요.')
             print('인식 요소 :',elements)
             break
-            
