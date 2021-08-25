@@ -23,3 +23,5 @@ Machine Learning Based HandWritten-Calculator
 - [Tensorflow Mnist Classification](https://github.com/sugyan/tensorflow-mnist)
 - [Models](https://github.com/DAT-Class/handwritten_multi-digit_calculator)
 - [Tensorflow Installation](https://mylifemystudy.tistory.com/27)
+- [Deploy MNIST in Django- BE](https://towardsdatascience.com/deploying-your-first-deep-learning-model-mnist-in-production-environment-510bfdc4808d)
+- [Javascript: Handwritten-digit recognition:CNN trained on the MNIST dataset(Tensorflow)](https://github.com/heanuea/Mnist-Digit-Reader-)
